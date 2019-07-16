@@ -1,0 +1,12 @@
+.brochure img,
+.media img {
+    -webkit-box-shadow: 4px 4px 11px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 11px -4px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 11px -4px rgba(0,0,0,0.75);
+}
+
+.flyer img {
+    -webkit-box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
+    -moz-box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
+    box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
+}

@@ -138,7 +138,7 @@
     });
 
     //pop up portfolio
-    $('.portfolio-image li a').magnificPopup({
+    $('.portfolio-image li:first-child a').magnificPopup({
       type: 'image',
       gallery: {
         enabled: true
