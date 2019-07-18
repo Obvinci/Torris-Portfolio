@@ -29,7 +29,7 @@
 .category .wrap-card:before,
 .category .wrap-card:after {
     height: 1px;
-    background: #268aff;
+    background: rgb(19,38,154);
 }
 
 .category .wrap-card:hover {
@@ -41,5 +41,21 @@
 .category .card:before,
 .category .card:after {
     width: 1px;
-    background: #268aff;
+    background: rgb(19,38,154);
+}
+
+.graphic {
+    background-color: #f6f6f6;
+    margin-top: 120px;
+}
+
+
+.graphic h4,
+.graphic p,
+.socialmedia h3,
+.socialmedia p,
+.media,
+.promotion h4,
+.promotion p {
+    margin: 100px 0 50px 0;
 }
