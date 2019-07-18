@@ -767,6 +767,7 @@ ul.portfolio-image li .desc{
 .card:hover:before {
   -webkit-transform: scaleY(1);
 }
+
 /*---------- d. testimonial -----------*/
 #testimonial {
   background-image: url(../images/testimonial-bg.jpg);

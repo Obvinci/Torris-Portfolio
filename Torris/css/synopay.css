@@ -1,3 +1,7 @@
+.category {
+    margin-top: 50px;
+}
+
 .brochure img,
 .media img {
     -webkit-box-shadow: 4px 4px 11px -4px rgba(0,0,0,0.75);
@@ -9,4 +13,33 @@
     -webkit-box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
     -moz-box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
     box-shadow: 20px 20px 26px -9px rgba(0,0,0,0.45);
+}
+
+.left-web,
+.right-web {
+    float: left;
+    width: 50%;
+    position: relative;
+}
+
+.right-web h3 {
+    position: absolute;
+}
+
+.category .wrap-card:before,
+.category .wrap-card:after {
+    height: 1px;
+    background: #268aff;
+}
+
+.category .wrap-card:hover {
+    box-shadow: none;
+    -webkit-transform: none;
+    transition: none;
+}
+
+.category .card:before,
+.category .card:after {
+    width: 1px;
+    background: #268aff;
 }
