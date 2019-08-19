@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80554a24-e6e3-4ede-901b-dc9863ee1180" name="Default" comment="" />
+    <list default="true" id="80554a24-e6e3-4ede-901b-dc9863ee1180" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Torris/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Torris/index.html" afterDir="false" />
+    </list>
     <ignored path="bodo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Torris/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-810">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="162">
+              <caret line="704" column="55" selection-start-line="704" selection-start-column="55" selection-end-line="704" selection-end-column="55" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -143,6 +146,8 @@
       <find>education</find>
       <find>goal</find>
       <find>WORK</find>
+      <find>linked</find>
+      <find>form</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,10 +165,10 @@
         <option value="$PROJECT_DIR$/Torris/js/main.js" />
         <option value="$PROJECT_DIR$/Torris/css/style.css" />
         <option value="$PROJECT_DIR$/Torris/css/synopay.css" />
-        <option value="$PROJECT_DIR$/Torris/index.html" />
         <option value="$PROJECT_DIR$/Torris/SynoPay.html" />
         <option value="$PROJECT_DIR$/Torris/Thinkship.html" />
         <option value="$PROJECT_DIR$/Torris/Designs.html" />
+        <option value="$PROJECT_DIR$/Torris/index.html" />
       </list>
     </option>
   </component>
@@ -268,12 +273,12 @@
       <workItem from="1564071793596" duration="4915000" />
       <workItem from="1564425004830" duration="421000" />
       <workItem from="1565724105130" duration="24000" />
-      <workItem from="1565887370322" duration="1831000" />
+      <workItem from="1565887370322" duration="2163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41488000" />
+    <option name="totallyTimeSpent" value="41820000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -496,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Torris/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="162">
+          <caret line="704" column="55" selection-start-line="704" selection-start-column="55" selection-end-line="704" selection-end-column="55" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
